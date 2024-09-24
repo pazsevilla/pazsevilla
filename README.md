@@ -1,8 +1,12 @@
 ## Hi there! Nice to meet you! 👋
 
 I'm Paz Sevilla, a passionate learner always eager to explore new ideas and acquire knowledge across various fields. 
+
 🎓 I’m currently studying at Universidad Austral 
+
 👯 I’m looking to collaborate on future projects
+
+
 
 
 <!--
