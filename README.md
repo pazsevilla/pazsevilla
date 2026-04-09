@@ -22,6 +22,7 @@ I'm Paz Sevilla, a passionate learner always eager to explore new ideas and acqu
   
   - R
   - Python
+  - MySQL
   
 </details>
 
